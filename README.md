@@ -69,6 +69,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 ---
 ![GitHub stars](https://img.shields.io/github/stars/sushantgb/REPOSITORY?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/sushantgb?style=social)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = sushantgb)
 
 
 
