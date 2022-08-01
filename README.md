@@ -7,7 +7,7 @@
 I am a creative writer and a coding enthusiast, mainly interested in web development and machine learning. I enjoy writing technical, educational and research stuffs. What brings me here? Well! obviously coding and it's a cool place to share your projects or learn from other's projects. 🤓
 - In addition to HTML CSS JS, I am learning additional web development skills ⌨️. I enjoy making small game web applications using pure JS. I like to challenge myself to create something with "Vanilla JS" that other claims cannot be made without frameworks. 😎
 - Other than that, I am also learning Python and applied artificial intelligence. Human brain interests me the most and willing to use information technology to explore new sectors of human cognition. 📖
-- I am looking forward to learn more about AI and web development while collaborating with skillful programmers. I bet ! it's gonna be fun to do. 🤝
+- I am looking forward to learn more about AI and web development while collaborating with skillful programmers. I bet ! it's gonna be fun. 🤝
 - When I am free I study cognitive psychology and ANN to know human brain and AI interchangeably. 🧠
 
   ### 🎲 Hobbies:
