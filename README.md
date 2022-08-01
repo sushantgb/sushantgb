@@ -2,7 +2,7 @@
   <div id="head" align="center">
     <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="30%" height="30%">
   </div>
-  <div id="badges" align="left">
+  <div id="badges" align="left" gap="2em">
     <h3>Reach me:</h3>
     <br>
     <a href="sgbharat.joint@gmail.com">
@@ -11,8 +11,6 @@
     <a href="https://www.linkedin.com/in/sganeshanbharat/">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="2%" height="2%">
     </a>
-    
-    
     <hr>
   </div>
 
