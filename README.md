@@ -48,8 +48,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 [![Codepen](https://img.shields.io/badge/Codepen-black?labelColor=black&style=for-the-badge&logo=codepen&link=https://codepen.io/loboverde)](https://codepen.io/loboverde)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sushantgb&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=sushantgb)
+![](https://komarev.com/ghpvc/?username=sushantgb&color=blueviolet)
 
 
 
