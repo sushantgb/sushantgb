@@ -14,6 +14,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   Creative acitivies really help me to keep my energy and optimism up. Some of these hobbies are:
   - Cartooning/Doing Graphic Art/Traditional Art🖌️
   - Poetry 🖊️
+  - Doing Traditional Indian Martial Arts 🥋
   - Exploring Nature/Lone walks into the wild 🌲
   - Meditation/Recite Mantras 🧘‍♂️
 
