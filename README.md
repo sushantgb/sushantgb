@@ -62,7 +62,11 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sganeshanbharat/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/Oxacorn/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ShantiPunj)
-[![Codepen](https://blog.codepen.io/wp-content/uploads/2012/08/main_logo.jpeg)](https://codepen.io/loboverde)
+<div>
+  <a href="https://codepen.io/loboverde">
+    <img src="https://www.etondigital.com/wp-content/uploads/2011/06/codepen.png" width="20%" height="100%"></img>
+   </a>
+ </div>
 
 
 
