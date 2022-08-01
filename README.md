@@ -1,6 +1,6 @@
 <div id="main" align="center" style="border:solid green">
   <div id="head" align="center">
-    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="5em" height="1em">
+    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="100%" height="1em">
   </div>
 
 
