@@ -27,10 +27,10 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
     <a href="https://sushantgb.github.io/RuntoSchool_Game/">
       <img src="https://i.pinimg.com/originals/e3/ad/cb/e3adcbe37dc5eb434536f0394154a6c0.jpg" width="20%" height="100%"></img>
     </a>
-    <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
-      <img src="https://i.pinimg.com/originals/97/0e/e0/970ee0b925186aeca23d3507ff5ae00c.jpg" width="20%" height="100%"></img>
+    <a href="https://sushantgb.github.io/Otaku_Quiz/">
+      <img src="https://i.pinimg.com/originals/5c/3a/c1/5c3ac1608882e1ba9bf6ad66922536e6.jpg" width="20%" height="100%"></img>
     </a>
-    <a href="https://sushantgb.github.io/RuntoSchool_Game/">
+    <a href="https://sushantgb.github.io/text_to_speech/">
       <img src="https://i.pinimg.com/originals/e3/ad/cb/e3adcbe37dc5eb434536f0394154a6c0.jpg" width="20%" height="100%"></img>
     </a>
     <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
