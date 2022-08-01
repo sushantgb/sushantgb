@@ -10,6 +10,8 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 - I am looking forward to learn more about AI and web development while collaborating with skillful programmers. I bet ! it's gonna be fun to do.
 - When I am free I study cognitive psychology and ANN to know human brain and AI interchangeably. 
 
+__Button|Follow__
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sganeshanbharat/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Oxacorn/) 
 
