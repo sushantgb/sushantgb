@@ -21,7 +21,15 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   ### 🏷️ Showcase:
   Some of my tiny projects, which you may like to visit:
   <br><br>
-  [![View site - GH Pages](https://img.shields.io/badge/1-Rock_Paper_Scissor_Game-2ea44f?style=for-the-badge)](https://sushantgb.github.io/Rock-Paper-Scissor/)
+  [![RPS Game](https://img.shields.io/badge/1-Rock_Paper_Scissor_Game-2ea44f?style=for-the-badge)](https://sushantgb.github.io/Rock-Paper-Scissor/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  
   <div>
     <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
       <img src="https://i.pinimg.com/originals/97/0e/e0/970ee0b925186aeca23d3507ff5ae00c.jpg" width="20%" height="100%"></img>
