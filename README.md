@@ -11,7 +11,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 - When I am free I study cognitive psychology and ANN to know human brain and AI interchangeably. 🧠
 
   ### Hobbies:
-  Creative acitivies really help me to keep my energy and optimism up. These are:
+  Creative acitivies really help me to keep my energy and optimism up. Some of these hobbies are:
   - Cartooning
   - Doing Graphic Art/Traditional Art🖌️
   - Poetry 🖊️
