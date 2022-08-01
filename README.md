@@ -63,8 +63,6 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 ---
 [![](https://visitcount.itsvg.in/api?id=sushantgb&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-##Profile View
-![Profile View Counter](https://komarev.com/ghpvc/?sushantgb)
 
 
 
