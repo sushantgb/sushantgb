@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! Sushant Here</h1>
+<h1 align="center"><img src="https://c.tenor.com/Lefa23vdx9kAAAAS/no-hand-shake-namaste.gif"></img> Hello There! Sushant Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
 <img src = "https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1500x491.png"></img>
 <hr>
 
@@ -8,7 +8,6 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 - In addition to HTML CSS JS, I am learning additional web development skills. I enjoy making small game web applications using pure JS. The challenge is to make something with "Vanilla JS" that other claims cannot be made without frameworks. 😎
 - Other than that, I am also learning Python and applied artificial intelligence. Human brain interests me the most and willing to use information technology to explore new sectors of human cognition.
 - I am looking forward to learn more about AI and web development while collaborating with skillful programmers. I bet ! it's gonna be fun to do. 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sganeshanbharat/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Oxacorn/) 
@@ -26,6 +25,13 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 ---
 [![](https://visitcount.itsvg.in/api?id=sushantgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![watch this repo](https://sushantgb.github.io/Rock-Paper-Scissor/)
+
+<div>
+<button>Hell</button>
+  
+[![RPS](https://drive.google.com/file/d/1Tt0uHNF4lM9YfG0GpbwhbXqUebDwU5-d/view?usp=sharing)](https://sushantgb.github.io/Rock-Paper-Scissor/)  
+</div>
 <!--
 <div id="main" align="center" border="solid" border-color="green">
   <div id="head" align="center">
