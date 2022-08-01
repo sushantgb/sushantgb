@@ -22,7 +22,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   Some of my tiny projects, which you may like to visit:
   <div>
     <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
-      <img src="https://i.pinimg.com/originals/14/f2/9d/14f29dbef3353b20a30f20fb48a512f9.jpg" width="20%" height="100%"></img>
+      <img src="https://i.pinimg.com/originals/97/0e/e0/970ee0b925186aeca23d3507ff5ae00c.jpg" width="20%" height="100%"></img>
     </a>  
 
   </div>
