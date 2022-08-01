@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://c.tenor.com/Lefa23vdx9kAAAAS/no-hand-shake-namaste.gif"></img> Hello There! Sushant Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
+<h1 align="center"><img src="https://emojibook.org/wp-content/uploads/2022/03/1-14-78.png" width="35px" height="35px"></img> Hello There! Sushant Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
 <img src = "https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1500x491.png"></img>
 <hr>
 
@@ -25,31 +25,9 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 ---
 [![](https://visitcount.itsvg.in/api?id=sushantgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![watch this repo](https://sushantgb.github.io/Rock-Paper-Scissor/)
 
-<div>
-<button>Hell</button>
-  
-[![RPS](https://drive.google.com/file/d/1Tt0uHNF4lM9YfG0GpbwhbXqUebDwU5-d/view?usp=sharing)](https://sushantgb.github.io/Rock-Paper-Scissor/)  
-</div>
-<!--
-<div id="main" align="center" border="solid" border-color="green">
-  <div id="head" align="center">
-    <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="30%" height="30%">
-  </div>
-  <div id="badges" align="left">
-    <h3>Reach me:</h3>
-    <br>
-    <a href="mailto:sgbharat.joint@gmail.com">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="2%" height="2%">
-    </a>
-    <a href="https://www.linkedin.com/in/sganeshanbharat/">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="2%" height="2%">
-    </a>
-    <hr>
-  </div>
-</div>
--->
+
+
 
 <!--
 **sushantgb/sushantgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
