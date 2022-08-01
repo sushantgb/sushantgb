@@ -64,6 +64,10 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 ---
 [![](https://visitcount.itsvg.in/api?id=sushantgb&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
+![GitHub stars](https://img.shields.io/github/stars/sushantgb/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sushantgb/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/sushantgb/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/sushantgb?style=social)
 
 
 
