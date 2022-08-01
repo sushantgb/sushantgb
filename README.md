@@ -2,8 +2,8 @@
   <div id="head" align="center">
     <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="30%" height="30%">
   </div>
-  <div id="badges">
-    <p>Reach me:</p>
+  <div id="badges" align="left">
+    <h3>Reach me:</h3>
     <hr>
     <a href="sgbharat.joint@gmail.com">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="2%" height="2%">
