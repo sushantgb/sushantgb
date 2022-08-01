@@ -4,10 +4,11 @@
   </div>
   <div id="badges" align="left">
     <h3>Reach me:</h3>
-    <hr>
+    <br>
     <a href="sgbharat.joint@gmail.com">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="2%" height="2%">
     </a>
+    <hr>
   </div>
 
 
