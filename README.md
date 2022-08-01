@@ -3,7 +3,7 @@
 <hr>
 
 
-## 🖋️ About Me:
+## ✒️ About Me:
 I am a creative writer and a coding enthusiast, mainly interested in web development and machine learning. I enjoy writing technical, educational and research stuffs. What brings me here? Well! obviously coding and it's a cool place to share your projects or learn from other's projects. 🤓
 - In addition to HTML CSS JS, I am learning additional web development skills ⌨️. I enjoy making small game web applications using pure JS. I like to challenge myself to create something with "Vanilla JS" that other claims cannot be made without frameworks. 😎
 - Other than that, I am also learning Python and applied artificial intelligence. Human brain interests me the most and willing to use information technology to explore new sectors of human cognition. 📖
@@ -13,10 +13,10 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   ### Hobbies:
   Creative acitivies really help me to keep my energy and optimism up. These are:
   - Cartooning
-  - Doing Graphic Art/Traditional Art
-  - Poetry
-  - Exploring Nature
-  - Meditation/Singing Mantras 
+  - Doing Graphic Art/Traditional Art🖌️
+  - Poetry 🖊️
+  - Exploring Nature 🌲
+  - Meditation/Recite Mantras 🧘
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sganeshanbharat/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Oxacorn/) 
