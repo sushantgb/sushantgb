@@ -22,14 +22,16 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   Some of my tiny projects, which you may like to visit:
   <br><br>
   [![RPS Game](https://img.shields.io/badge/1-Rock_Paper_Scissor_Game-2ea44f?style=for-the-badge)](https://sushantgb.github.io/Rock-Paper-Scissor/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
-  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=magenta)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![RTS Game](https://img.shields.io/badge/2-Run_To_School_Game-2ea44f?style=for-the-badge&color=blue)](https://sushantgb.github.io/RuntoSchool_Game/)
+  [![Otaku Quiz](https://img.shields.io/badge/3-Otaku_Quiz-2ea44f?style=for-the-badge&color=orange)](https://sushantgb.github.io/Otaku_Quiz/)
+  [![TTS App](https://img.shields.io/badge/4-Text_To_Speech_App-2ea44f?style=for-the-badge&color=87F244)](https://sushantgb.github.io/text_to_speech/)
+  [![Drumkit](https://img.shields.io/badge/5-Drum_kit-2ea44f?style=for-the-badge&color=yellow)](https://sushantgb.github.io/Testbook-Hackathon-2.0/)
+  [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://sushantgb.github.io/Quiz_app/)
+  [![Pinterest Clone](https://img.shields.io/badge/7-Pinterest_Clone-2ea44f?style=for-the-badge&color=44F2F2)](https://sushantgb.github.io/pinterest_clone/)
+  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone-2ea44f?style=for-the-badge&color=F24481)](https://sushantgb.github.io/static_linkedin_clone/)
   
+  <!--
+  For reference
   <div>
     <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
       <img src="https://i.pinimg.com/originals/97/0e/e0/970ee0b925186aeca23d3507ff5ae00c.jpg" width="20%" height="100%"></img>
@@ -56,6 +58,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
       <img src="https://i.pinimg.com/originals/b2/c7/c3/b2c7c37281c47a72766fc7a2b1d94c32.jpg" width="20%" height="100%"></img>
     </a>
   </div>
+  -->
 
 ## 🖥️ Tech & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
