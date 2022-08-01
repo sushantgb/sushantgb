@@ -20,6 +20,8 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 
   ### 🏷️ Showcase:
   Some of my tiny projects, which you may like to visit:
+  <br><br>
+  [![View site - GH Pages](https://img.shields.io/badge/1-Rock_Paper_Scissor_Game-2ea44f?style=for-the-badge)](https://sushantgb.github.io/Rock-Paper-Scissor/)
   <div>
     <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
       <img src="https://i.pinimg.com/originals/97/0e/e0/970ee0b925186aeca23d3507ff5ae00c.jpg" width="20%" height="100%"></img>
@@ -62,11 +64,6 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sganeshanbharat/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/Oxacorn/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ShantiPunj)
-<div>
-  <a href="https://codepen.io/loboverde">
-    <img src="https://www.etondigital.com/wp-content/uploads/2011/06/codepen.png" width="20%" height="100%"></img>
-   </a>
- </div>
 
 
 
