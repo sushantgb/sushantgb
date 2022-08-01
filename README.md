@@ -5,10 +5,9 @@
   <div id="badges" align="left">
     <h3>Reach me:</h3>
     <br>
-    <a href="mailto:sgbharat.joint@gmail.com" gap="5px">
+    <a href="mailto:sgbharat.joint@gmail.com">
       <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="2%" height="2%">
     </a>
-    >>
     <a href="https://www.linkedin.com/in/sganeshanbharat/">
       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="2%" height="2%">
     </a>
