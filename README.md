@@ -18,12 +18,14 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   - Exploring Nature/Lone walks into the wild 🌲
   - Meditation/Recite Mantras 🧘‍♂️
 
-<div>
-  <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
-    <img src="https://i.pinimg.com/originals/14/f2/9d/14f29dbef3353b20a30f20fb48a512f9.jpg" width="20%" height="100%"></img>
-  </a>  
-  
-</div>
+  ### 🏷️ Showcase:
+  Some of my tiny projects, which you may like to visit:
+  <div>
+    <a href="https://sushantgb.github.io/Rock-Paper-Scissor/">
+      <img src="https://i.pinimg.com/originals/14/f2/9d/14f29dbef3353b20a30f20fb48a512f9.jpg" width="20%" height="100%"></img>
+    </a>  
+
+  </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sganeshanbharat/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Oxacorn/) 
