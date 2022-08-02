@@ -2,7 +2,7 @@
 <img src = "https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1500x491.png"></img>
 <hr>
 
-<h3 align="center" color="red">Welcome to my page. Happy to have you here. 🌞</h3>
+<h3 align="center" color="red">Welcome to my profile. Happy to have you here. 🌞</h3>
 
 ## ✒️ About Me:
 I am a creative writer and a coding enthusiast, mainly interested in web development and machine learning. I enjoy writing technical, educational and research stuffs. What brings me here? Well! obviously coding and it's a cool place to share your projects or learn from other's projects. 🤓
