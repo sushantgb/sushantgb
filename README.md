@@ -1,7 +1,9 @@
 <h1 align="center"><img src="https://emojibook.org/wp-content/uploads/2022/03/1-14-78.png" width="35px" height="35px"></img> Hello There! Sushant Here  <img src="https://cdn3.emoji.gg/emojis/6186-developer-bot.gif" width="35px" height="35px"></img></h1>
 <img src = "https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development-1500x491.png"></img>
 <hr>
-
+```
+print("welcome to my page")
+```
 
 ## ✒️ About Me:
 I am a creative writer and a coding enthusiast, mainly interested in web development and machine learning. I enjoy writing technical, educational and research stuffs. What brings me here? Well! obviously coding and it's a cool place to share your projects or learn from other's projects. 🤓
@@ -48,7 +50,7 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
 [![Codepen](https://img.shields.io/badge/Codepen-black?labelColor=black&style=for-the-badge&logo=codepen&link=https://codepen.io/loboverde)](https://codepen.io/loboverde)
 
 ---
-![](https://komarev.com/ghpvc/?username=sushantgb&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=sushantgb&color=blueviolet&style=flat-square)
 
 
 
