@@ -28,8 +28,11 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   [![TTS App](https://img.shields.io/badge/4-Text_To_Speech_App-2ea44f?style=for-the-badge&color=87F244)](https://sushantgb.github.io/text_to_speech/)
   [![Drumkit](https://img.shields.io/badge/5-Drum_kit-2ea44f?style=for-the-badge&color=yellow)](https://sushantgb.github.io/Testbook-Hackathon-2.0/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://sushantgb.github.io/Quiz_app/)
-  [![Pinterest Clone](https://img.shields.io/badge/7-Pinterest_Clone-2ea44f?style=for-the-badge&color=44F2F2)](https://sushantgb.github.io/pinterest_clone/)
-  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone-2ea44f?style=for-the-badge&color=F24481)](https://sushantgb.github.io/static_linkedin_clone/)
+  [![Pinterest Clone](https://img.shields.io/badge/7-Pinterest_Clone_CSS-2ea44f?style=for-the-badge&color=44F2F2)](https://sushantgb.github.io/pinterest_clone/)
+  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=F24481)](https://sushantgb.github.io/static_linkedin_clone/)
+  [![Airbnb Clone](https://img.shields.io/badge/9-Airbnb_Clone_NodeJS-2ea44f?style=for-the-badge&color=F24400)](https://airbnbclone-production.up.railway.app/)
+  
+  
   
 ## 🖥️ Tech & Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
