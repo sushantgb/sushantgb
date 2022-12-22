@@ -28,9 +28,9 @@ I am a creative writer and a coding enthusiast, mainly interested in web develop
   [![TTS App](https://img.shields.io/badge/4-Text_To_Speech_App-2ea44f?style=for-the-badge&color=87F244)](https://sushantgb.github.io/text_to_speech/)
   [![Drumkit](https://img.shields.io/badge/5-Drum_kit-2ea44f?style=for-the-badge&color=yellow)](https://sushantgb.github.io/Testbook-Hackathon-2.0/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://sushantgb.github.io/Quiz_app/)
-  [![Pinterest Clone](https://img.shields.io/badge/7-Pinterest_Clone_CSS-2ea44f?style=for-the-badge&color=44F2F2)](https://sushantgb.github.io/pinterest_clone/)
+  [![Pinterest Clone](https://img.shields.io/badge/7-Pinterest_Clone_CSS-2ea44f?style=for-the-badge&color=FF2B2F)](https://sushantgb.github.io/pinterest_clone/)
   [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://sushantgb.github.io/static_linkedin_clone/)
-  [![Airbnb Clone](https://img.shields.io/badge/*-Airbnb_Clone_NodeJS_Render_Deployment-2ea44f?style=for-the-badge&color=024481)](https://airbnb-clone-render.onrender.com/)
+  [![Airbnb Clone](https://img.shields.io/badge/*-Airbnb_Clone_NodeJS_Render_Deployment-2ea44f?style=for-the-badge&color=F70F49)](https://airbnb-clone-render.onrender.com/)
   
   
   
